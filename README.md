@@ -1,3 +1,5 @@
+Project Title : A Cloud Based Seizure Alert System for Epileptic Patients That Uses Higher-Order Statistics
+
 
 The Main aim of this project is to alert the Epileptic Patient’s Condition to their family Members to save them if they need help.
 
